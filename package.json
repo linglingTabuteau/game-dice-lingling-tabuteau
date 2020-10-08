@@ -1,0 +1,12 @@
+{
+  "name": "game-dice-lingling-tabuteau",
+  "version": "1.0.0",
+  "description": "Project Description",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "author": "Pulkit Aggarwal"
+}
